@@ -50,5 +50,8 @@ img {
   weight: 250px;
 }
 .footer li {
-  
+  background-color: gold;
+  display: inline;
+  padding: 0;
+  margin: 5px;
 }
